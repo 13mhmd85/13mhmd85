@@ -1,20 +1,127 @@
-<h1 align="center">Hi 👋, I'm mohammad</h1>
-<h3 align="center">A passionate backend & software developer from Iran</h3>
 
-- 🔭 I’m currently working on [resturant project](https://github.com/13mhmd85/resturant)
+# About Me / درباره من / Über mich
 
-- 🌱 I’m currently learning **Django framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/13mhmd85](https://github.com/13mhmd85)
 
-- 💬 Ask me about **Django & Python**
+## 📘 English Version
 
-- 📫 How to reach me **mhdtnt1385@gmail.com**
+Hi! I'm Mohammad, a passionate Backend Developer based in Iran.
+I specialize in building backend systems and APIs using Python and Django.
+I enjoy creating robust and efficient backend solutions for real-world projects, such as FoodLand, a restaurant reservation system.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/m.mayyahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mayyahi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ <img align="right" alt="mmd" width=300px src="https://media.tenor.com/lCP8U3IWX0wAAAAM/its-not-working-frame-order.gif">
+
+### 🌍 Languages
+
+* Arabic: Fluent
+* Persian (Farsi): Fluent
+* German: Fluent
+* English: Fluent
+
+### 🛠 Tech Stack
+
+Python | Django | html5 | css | php | c# | windows form | dart
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff)
+
+
+### 📂 Featured Projects
+
+* [FoodLand](https://github.com/13mhmd85/foodland) - Restaurant website with full reservation system (Backend focused)
+
+### 📫 Contact
+
+* Email: [mohammad.dev@gmail.com](mailto:mhdtnt1385@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/mmd](https://www.linkedin.com/in/mhmd.mayahi)
+* Telegram: t.me/mo6432
+
+---
+
+## 🇮🇷 نسخه فارسی
+
+سلام! من محمد هستم، توسعه‌دهنده بک‌اند علاقه‌مند مقیم ایران.
+تخصص من ساخت سیستم‌ها و APIهای بک‌اند با پایتون و جنگو است.
+از ایجاد راهکارهای بک‌اند قوی و بهینه برای پروژه‌های واقعی، مانند FoodLand، سیستم رزرو رستوران، لذت می‌برم.
+
+
+
+
+
+### 🌍 زبان‌ها
+
+* عربی: مسلط
+* فارسی: مسلط
+* آلمانی: مسلط
+* انگلیسی: مسلط
+
+### 🛠 مهارت‌ها
+Python | Django | html5 | css | php | c# | windows form | dart
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff)
+
+
+### 📂 پروژه‌ها
+
+* [FoodLand](https://github.com/13mhmd85/foodland) - وب‌سایت رستوران با سیستم رزرو کامل (تمرکز روی بک‌اند)
+
+### 📫 تماس
+
+* ایمیل: [mohammad.dev@gmail.com](mailto:mhdtnt1385@gmail.com)
+* لینکدین: [linkedin](https://www.linkedin.com/in/mhmd.mayahi)
+* تلگرام: t.me/mo6432
+
+---
+
+## 🇩🇪 Deutsche Version
+
+Hallo! Ich bin Mohammad, ein leidenschaftlicher Backend-Entwickler aus dem Iran.
+Ich spezialisiere mich auf Backend-Systeme und APIs mit Python und Django.
+Ich entwickle gerne robuste und effiziente Backend-Lösungen für reale Projekte, wie FoodLand, ein Restaurant-Reservierungssystem.
+
+
+
+
+### 🌍 Sprachen
+
+* Arabisch: fließend
+* Persisch (Farsi): fließend
+* Deutsch: ein bisschen
+* Englisch: ein bisschen
+
+### 🛠 Tech Stack
+
+Python | Django | html5 | css | php | c# | windows form | dart
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff)
+
+### 📂 Projekte
+
+* [FoodLand](https://github.com/13mhmd85/foodland) - Restaurant-Website mit vollständigem Reservierungssystem (Backend-fokussiert)
+
+### 📫 Kontakt
+
+* E-Mail: [mohammad.dev@gmail.com](mailto:mhdtnt1385@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/mmd](https://www.linkedin.com/in/mhmd.mayahi)
+* Telegram: t.me/mo6432
